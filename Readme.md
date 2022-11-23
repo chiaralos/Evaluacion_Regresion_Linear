@@ -1,10 +1,10 @@
 **Tabla de contenidos**
 
-- [Descripción del repositorio](https://github.com/chiaralos/Evaluacion_Regresion_Linear/main/Readme.md#descripci%C3%B3n-del-repositorio)
-- [Python](https://github.com/chiaralos/Evaluacion_Regresion_Linear/main/Readme.md#python)
-- [C++](https://github.com/chiaralos/Evaluacion_Regresion_Linear/main/Readme.md#c)
-  - [Ejecución](https://github.com/chiaralos/Evaluacion_Regresion_Linear/main/Readme.md#ejecuci%C3%B3n)
-  - [Recomendaciones](https://github.com/chiaralos/Evaluacion_Regresion_Linear/main/Readme.md#recomendaciones)
+- [Descripción del repositorio](https://github.com/chiaralos/Evaluacion_Regresion_Linear#descripci%C3%B3n-del-repositorio)
+- [Python](https://github.com/chiaralos/Evaluacion_Regresion_Linear#python)
+- [C++](https://github.com/chiaralos/Evaluacion_Regresion_Linear#c)
+  - [Ejecución](https://github.com/chiaralos/Evaluacion_Regresion_Linear#ejecuci%C3%B3n)
+  - [Recomendaciones](https://github.com/chiaralos/Evaluacion_Regresion_Linear#recomendaciones)
 
 ## Descripción del repositorio
 En este repositorio encontrará la regresión linear y métrica $R^2$ del dataset [Cubic zirconia](https://raw.githubusercontent.com/chiaralos/Evaluacion_Regresion_Linear/main/Dataset/cubic_zirconia.csv), en dos lenguajes de programación: Python y C++. 
